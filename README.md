@@ -1,4 +1,4 @@
-# <a href="https://your-username.github.io/admin-dashboard/">Admin Dashboard</a>
+# <a href="https://a07k.github.io/Project-Admin-Dashboard/">Admin Dashboard</a>
 
 <img src="admin.png" alt="Admin Dashboard Preview">
 
